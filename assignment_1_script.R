@@ -3,7 +3,7 @@
 ## Primary author of this script: Yeshi
 ## 2026-11-02
 ##
-## Assignment-2 edits by Abdullah Jasem (secondary contributor), 2026-11-19:
+## Assignment-2 edits by Hasan Jasem (secondary contributor), 2026-11-19:
 ##   Edit 1. Made the three figures consistent: one shared colour palette for
 ##           the two species (Fig 2 and Fig 3 previously had the colours
 ##           swapped), italic species names, cleaner axis/category labels,
